@@ -12,5 +12,7 @@
 # 前端框架
   * vue框架：https://cn.vuejs.org/v2/api/
   * vue路由：https://router.vuejs.org/zh-cn/essentials/dynamic-matching.html
+  * MUI：http://dev.dcloud.net.cn/mui/
+  * API · 小程序：https://mp.weixin.qq.com/debug/wxadoc/dev/api/
 # 字体图标库
   * music – Font Awesome 中文网：http://www.fontawesome.com.cn/icons/music/
